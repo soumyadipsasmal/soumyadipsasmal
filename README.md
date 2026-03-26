@@ -88,13 +88,7 @@ fact: "I code till 2AM and never give up! 💪"
 
 
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumyadipsasmal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 

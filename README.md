@@ -103,10 +103,13 @@ fact: "I code till 2AM and never give up! 💪"
 <div align="center">
 
 ```
-Q1 2025  ██████████  Docker + Jenkins CI/CD    ✅ Done!
-Q2 2025  ████░░░░░░  AWS + Kubernetes           🔄 In Progress
-Q3 2025  ░░░░░░░░░░  Terraform + Monitoring     🔜 Coming
-Q4 2025  ░░░░░░░░░░  AWS Certified + MNC Job    🎯 Goal
+January   ✅ ████████████  Docker + Jenkins CI/CD
+February  ✅ ████████████  Full Stack + AI Projects
+March     🔄 ████████░░░░  AWS EC2 + Deployment
+April     🔜 ░░░░░░░░░░░░  Kubernetes + Helm
+May       🔜 ░░░░░░░░░░░░  Terraform + IaC
+June      🔜 ░░░░░░░░░░░░  AWS Certification
+July      🎯 ░░░░░░░░░░░░  DevOps Role at MNC!
 ```
 
 </div>

@@ -86,17 +86,7 @@ fact: "I code till 2AM and never give up! 💪"
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=soumyadipsasmal&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 

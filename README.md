@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soumyadip%20Sasmal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20CI/CD%20%7C%20Automation&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Soumyadip%20Sasmal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20CI%2FCD%20%7C%20Automation&descAlignY=55&descSize=18&descColor=a8b8d8"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=👋+Hey%2C+I'm+Soumyadip!;🚀+DevOps+Engineer+in+Making;🐳+Docker+%7C+Jenkins+%7C+Kubernetes;☁️+AWS+%7C+Terraform+%7C+CI%2FCD;🤖+AI+%2B+DevOps+=%20Future!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Soumyadip+%F0%9F%91%8B;DevOps+Engineer+in+Making+%F0%9F%9A%80;Docker+%7C+Jenkins+%7C+Kubernetes+%F0%9F%90%B3;AWS+%7C+Terraform+%7C+CI%2FCD+%E2%98%81%EF%B8%8F;Building+the+future+with+AI+%2B+DevOps+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
-[![](https://visitcount.itsvg.in/api?id=soumyadipsasmal&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
-![GitHub followers](https://img.shields.io/github/followers/soumyadipsasmal?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/soumyadipsasmal?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=soumyadipsasmal&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/soumyadipsasmal?style=for-the-badge&color=58a6ff&labelColor=0d1117)
 
 </div>
 
@@ -20,70 +16,72 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Soumyadip Sasmal
-location: India 🇮🇳
-role: DevOps Engineer (Transitioning)
-email: soumyadipsasmal88@gmail.com
+name     : Soumyadip Sasmal
+location : India 🇮🇳
+role     : DevOps Engineer (Transitioning)
+email    : soumyadipsasmal88@gmail.com
 
 currently_learning:
-  - Jenkins CI/CD Pipelines
-  - Kubernetes & Helm
-  - Terraform Infrastructure as Code
-  - AWS Cloud Services
-  - 4G/5G Network Automation
+  - ✅ Docker & Jenkins CI/CD
+  - 🔄 Kubernetes & Helm Charts
+  - 🔄 Terraform (IaC)
+  - ☁️  AWS Cloud Services
+  - 📡 4G/5G Network Automation
 
-goals:
-  - Land a DevOps role at a top MNC
-  - Master Cloud & Container orchestration
-  - Build production-grade CI/CD pipelines
-
-fun_fact: "I code till 2AM and still show up! 💪"
+goal: "Land DevOps role at top MNC 🎯"
+fact: "I code till 2AM and never give up! 💪"
 ```
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🤖 AI Chat Assistant | React + Node + MongoDB + Claude AI | 🔨 In Progress |
-| 📝 Todo App CI/CD | React + Node + Docker + Jenkins | ✅ Complete |
-| ☁️ AWS Deployment | EC2 + Docker + Jenkins | 🔜 Coming Soon |
+| 🏗️ Project | 💻 Tech Stack | 📊 Status |
+|:-----------|:-------------|:----------|
+| 🤖 AI Chat Assistant | React • Node.js • MongoDB • Claude AI • Docker • Jenkins | 🔨 Building |
+| 📝 Todo App CI/CD | React • Node.js • Docker • Jenkins • Docker Hub | ✅ Complete |
+| ☁️ AWS Deployment | EC2 • Docker • Jenkins • GitHub Webhooks | 🔜 Next |
+| ⚙️ K8s Cluster | Kubernetes • Helm • Terraform | 🔜 Planned |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🐳 DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+**🐳 DevOps & Cloud**
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**💻 Languages & Frameworks**
 
-### 🧪 Testing & Automation
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**🧪 Testing**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -93,12 +91,12 @@ fun_fact: "I code till 2AM and still show up! 💪"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadipsasmal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadipsasmal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumyadipsasmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadipsasmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=soumyadipsasmal&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=soumyadipsasmal&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </div>
 
 ---
@@ -106,7 +104,7 @@ fun_fact: "I code till 2AM and still show up! 💪"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumyadipsasmal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=soumyadipsasmal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -114,42 +112,46 @@ fun_fact: "I code till 2AM and still show up! 💪"
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadipsasmal&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadipsasmal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
 </div>
 
 ---
 
-## 🎯 2025 Goals
-
-```
-✅ Master Docker & Jenkins CI/CD
-🔄 Deploy apps on AWS EC2
-🔄 Learn Kubernetes
-⬜ Get AWS Certified (CCP)
-⬜ Contribute to Open Source
-⬜ Land DevOps role at MNC
-```
-
----
-
-## 🤝 Connect With Me
+## 🎯 2025 Roadmap
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadipsasmal88@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyadipsasmal)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadipsasmal)
+```
+Q1 2025  ██████████  Docker + Jenkins CI/CD    ✅ Done!
+Q2 2025  ████░░░░░░  AWS + Kubernetes           🔄 In Progress
+Q3 2025  ░░░░░░░░░░  Terraform + Monitoring     🔜 Coming
+Q4 2025  ░░░░░░░░░░  AWS Certified + MNC Job    🎯 Goal
+```
 
 </div>
 
 ---
 
+## 🤝 Let's Connect!
+
 <div align="center">
 
-### 💬 Random Dev Quote
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadipsasmal88@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyadipsasmal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadipsasmal)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/soumyadipsasmal)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-
